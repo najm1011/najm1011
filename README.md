@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Najm and I'm a software developer, from the UK.</h2>
+<h2 align="left">Hi 👋! My name is Najm, and I'm a passionate software developer based in the UK</h2>
 
 ###
 
