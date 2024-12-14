@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Najm, and I'm a passionate software developer based in the UK</h2>
+<h2 align="left">Hi 👋! My name is Najm, and I'm a passionate software developer based in the UK.</h2>
 
 ###
 
@@ -50,7 +50,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/najm1011/najm1011/output/github-snake-dark.svg" alt="Snake animation (dark)" />
+<img src="https://raw.githubusercontent.com/najm1011/najm1011/output/github-snake.svg" alt="Snake animation" />
 
 ###
 
