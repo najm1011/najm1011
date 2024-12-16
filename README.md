@@ -1,4 +1,4 @@
-<h2 align="left"></h2>
+![Header](./images/your-image-file-name.png)
 
 ###
 
