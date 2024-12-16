@@ -1,4 +1,4 @@
-![Header](./github-header-image-png)
+[![Header](https://github.com/najm1011/najm1011/blob/main/github-header-image.png?raw=true)](https://github.com/najm1011)
 
 ###
 
